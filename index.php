@@ -75,5 +75,9 @@
                 </div>
             </form>
         </div>
+
+        <!--  -->
+        <!-- PAGINA DE CONFIRMAÇÃO -->
+        <!-- FOOTER DADOS DE CONTATOS E REDE SOCIAL -->
     </body>
 </html>

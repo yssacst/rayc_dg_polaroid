@@ -1,13 +1,15 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    background-image: url("./img/back.jpg");
+    background-image: url("./img/fundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
     margin:0;
     display:block;
     color:white;
 }
 header{
-    background-color: rgba(255, 167, 167, 0.4);
+    background-color: rgba(207, 47, 47, 0.8);
     padding-top:5px;
     padding-bottom:5px;
     display: inline-flex;
@@ -24,14 +26,11 @@ header h2{
     margin-top:10px;
     padding:20px;
     border-radius: 5px;
-    background-color: rgba(199, 250, 250,0.7);
+    /* background-color: rgba(199, 250, 250,0.7); */
+    background-color: rgba(207, 47, 47, 0.8);
     display: inline-block;
 }
-#divForm h2{
-    color:teal;
-}
 form label{
-    color:rgba(255, 109, 145,0.8);
     font-weight: bold;
     text-align: left;
 }
@@ -42,12 +41,12 @@ form hr{
 form input {
     border: 0px solid white;
     margin:5px;
-    color:teal;
+    color:rgba(255, 109, 145,0.8);
 }
  
 form select {
     border: 0px solid white;
     margin:5px;
-    color:teal;
+    color:rgba(255, 109, 145,0.8);
     font-weight: bold;
-}   
+}  
