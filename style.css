@@ -1,9 +1,9 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    background-image: url("./img/fundo.png");
+    background-image: url("./img/back4.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
     margin:0;
     display:block;
     color:white;
